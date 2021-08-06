@@ -1,5 +1,5 @@
-function Food(props) {
-  return <h1>I like {props.fav}</h1>;
+function Food({ fav }) {
+  return <h1>I like {fav}</h1>;
 }
 
 function App() {
