@@ -1,4 +1,3 @@
-// import PropTypes from "prop-types";
 import React from "react";
 
 class App extends React.Component {
